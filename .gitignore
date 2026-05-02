@@ -3,3 +3,5 @@ bin/
 
 # nix build (produces a symlink)
 result
+
+.direnv/
